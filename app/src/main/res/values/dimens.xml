@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingLR">15dp</dimen>
+    <dimen name="searchTextSize">15sp</dimen>
+    <dimen name="itemSubtitleTextSize">11sp</dimen>
+    <dimen name="itemImageMaxWidth">125dp</dimen>
+    <dimen name="itemImageMaxHeight">70dp</dimen>
+    <dimen name="textSize">17sp</dimen>
+    <dimen name="clearHistoryTextSize">13sp</dimen>
+    <dimen name="historyTextSize">15sp</dimen>
+</resources>
